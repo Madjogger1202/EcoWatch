@@ -1,2 +1,2 @@
 # EcoWatch
-Code for IoT project. See more ...
+Code for mini IoT project. See more here https://habr.com/ru/post/674464/
